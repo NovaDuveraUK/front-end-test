@@ -14,7 +14,7 @@ Change the number color under the following conditions:
 * Tailwindcss
 * Redux Toolkit
 * Typescript
-* Redux middleware to integrate websocket
+* Integrate websocket with redux
 
 ## Run websocket server
 > npm i
