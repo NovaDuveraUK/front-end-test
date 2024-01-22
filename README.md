@@ -15,6 +15,7 @@ Change the number color under the following conditions:
 * Redux Toolkit
 * Typescript
 * Integrate websocket with redux
+* Go one step further - can we avoid the websocket processing in the main event loop? 
 
 ## Run websocket server
 > npm i
